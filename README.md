@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on computer vision, time series analysis.<br>🌱 I’m currently learning container orchestration and CI/CD.<br>💬 Ask me about machine learning, deep learning and data science.<br>
+🔭 I’m currently working on computer vision, time series analysis.<br>🌱 I’m currently learning Agents and LLMs.<br>💬 Ask me about machine learning, deep learning and data science.<br>
 
 
 ## 🌐 Socials:
